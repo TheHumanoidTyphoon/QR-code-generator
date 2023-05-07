@@ -16,4 +16,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/TheHumanoidTyphoon/QR-code-generator/blob/master/LICENSE) file for details.
